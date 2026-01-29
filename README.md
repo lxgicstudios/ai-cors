@@ -1,5 +1,10 @@
 # ai-cors
 
+[![npm version](https://img.shields.io/npm/v/ai-cors.svg)](https://www.npmjs.com/package/ai-cors)
+[![npm downloads](https://img.shields.io/npm/dm/ai-cors.svg)](https://www.npmjs.com/package/ai-cors)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Generate CORS configuration for your stack.
 
 ## Install
