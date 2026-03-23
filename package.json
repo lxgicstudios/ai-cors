@@ -39,7 +39,7 @@
   "homepage": "https://github.com/LXGIC-Studios/ai-cors#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-cors"
+    "url": "git+https://github.com/LXGIC-Studios/ai-cors.git"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-cors/issues"
