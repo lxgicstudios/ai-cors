@@ -1,5 +1,5 @@
 {
-  "name": "ai-cors",
+  "name": "@lxgicstudios/ai-cors",
   "version": "1.0.0",
   "description": "AI-powered CORS configuration generator - secure cross-origin headers with GPT analysis",
   "main": "dist/index.js",
