@@ -15,42 +15,29 @@
     "build": "tsc"
   },
   "keywords": [
-    "2025-standards",
-    "ai",
-    "ai-2025",
-    "ai-powered",
-    "anthropic",
-    "api",
-    "automation",
-    "claude",
-    "cli",
     "cors",
-    "cross-origin",
-    "developer-productivity",
-    "developer-tools",
-    "discoverability",
-    "express",
-    "generative-ai",
-    "llm-optimized",
-    "modern-seo",
-    "nodejs",
-    "optimization",
-    "performance",
-    "performance-optimization",
     "security",
+    "typescript",
+    "nodejs",
+    "cli",
+    "AI-powered",
+    "AI-optimized",
+    "performance",
+    "optimization",
     "seo",
-    "seo-2026",
-    "typescript"
+    "discoverability",
+    "2025-standards",
+    "modern-seo"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/ai-cors#readme",
+  "homepage": "https://github.com/lxgicstudios/ai-cors#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-cors"
+    "url": "https://github.com/lxgicstudios/ai-cors"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/ai-cors/issues"
+    "url": "https://github.com/lxgicstudios/ai-cors/issues"
   },
   "funding": {
     "type": "github",
