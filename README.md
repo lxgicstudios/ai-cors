@@ -16,7 +16,7 @@
 
 # AI CORS
 
-solve specific development challenges with AI-powered insights.
+AI-powered CORS config generator — secure cross-origin headers for Express, Fastify, and Node.js. Works with Claude, Cursor, GPT, Copilot.
 
 [![npm downloads](https://img.shields.io/npm/d/ai-cors.svg?style=for-the-badge&logo=npm&label=downloads)](https://npmjs.com/package/ai-cors)
 [![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-cors?style=for-the-badge&logo=github&label=stars)](https://github.com/LXGIC-Studios/ai-cors)
@@ -24,9 +24,17 @@ solve specific development challenges with AI-powered insights.
 
 </div>
 
-> AI-powered CORS configuration generator - secure cross-origin headers with GPT analysis.
+> AI-powered CORS config generator — secure cross-origin headers with GPT analysis.
 
-## 🚀 Features
+## 🤖 Works With
+
+| AI Assistant | Support |
+|-------------|---------|
+| 🤖 **Claude / Claude Code** | ✅ Full |
+| 🔵 **Cursor** | ✅ Full |
+| 💚 **GPT / ChatGPT** | ✅ Full |
+| ⚡ **GitHub Copilot** | ✅ Full |
+| 🧩 **MCP Servers** | ✅ Compatible |## 🚀 Features
 
 - Feature 1
 - Feature 2
